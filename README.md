@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rithvik Shetty</h1>
 <h3 align="center">A seasoned programmer in python.Been fascinated by the intersection of creativity and technology, and constantly seeking new ways to push the boundaries of what is possible</h3>
-<img align="right" alt="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
