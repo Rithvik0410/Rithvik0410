@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rithvik Shetty</h1>
 <h3 align="center">
 
-"Navigating the realms of DSA while crafting web magic. Enthusiast of efficient solutions and avid explorer of new tech horizons."</h3>
+Navigating the realms of DSA while crafting web magic. Enthusiast of efficient solutions and avid explorer of new tech horizons.</h3>
 
 
 
