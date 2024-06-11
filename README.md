@@ -16,9 +16,8 @@ Navigating the realms of DSA while crafting web magic. Enthusiast of efficient s
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithvik0410&show_icons=true&locale=en&layout=compact" alt="rithvik0410" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithvik0410&show_icons=true&locale=en" alt="rithvik0410" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithvik0410" alt="rithvik0410" /></a> </p>
+
 
 
 
