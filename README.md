@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2E97,50:BD00FF,100:00FFF9&amp;height=220&amp;section=header&amp;text=Rithvik%20Shetty&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20Creative%20Technologist&amp;descAlignY=56&amp;descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF9933,50:FFFFFF,100:138808&amp;height=220&amp;section=header&amp;text=Rithvik%20Shetty&amp;fontSize=58&amp;fontColor=0D0221&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20Creative%20Technologist&amp;descAlignY=56&amp;descSize=18" width="100%" />
 
 <a href="https://github.com/rithvik0410">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2500&amp;pause=800&amp;color=00FFF9&amp;background=0D0221&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Software+Engineer+%F0%9F%92%BB;Data+Engineer+%F0%9F%93%8A;Drummer+%26+Pianist+%F0%9F%A5%81%F0%9F%8E%B9;Digital+%26+3D+Artist+%F0%9F%8E%A8;Building+Cool+Things+with+Code+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -12,33 +12,19 @@
 
 # 👋 Hi, I'm Rithvik Shetty
 
-I'm a **Software Engineer** with a passion for building scalable applications, data solutions, and developer-friendly tools.
+I'm a **Software Engineer** at Novigo Solutions with a passion for building scalable applications, data solutions, and developer-friendly tools.
 
 When I'm away from the keyboard, you'll usually find me behind a **drum kit**, at a **piano**, sketching, or creating **3D artwork in Blender**.
 
 ---
 
-## ⚡ About Me
-
-- 💻 Software Engineer
-- 📊 Aspiring Data Engineer
-- 🥁 Drummer & Pianist
-- 🎨 Digital Artist & Blender Creator
-
-### 🌱 Currently Learning
+### Currently Working on
 
 - Azure Data Factory
+- Databricks
 - Power BI
 - Microsoft Azure
 - Cloud & Data Engineering
-
-### 🎯 Interests
-
-- Backend Development
-- Data Engineering
-- Automation
-- Open Source
-- Creative Technology
 
 ### 📫 Reach Me
 
@@ -75,6 +61,10 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 <p>
 
 <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -137,6 +127,7 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 </p>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -193,12 +184,12 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
+| Project                                        | Description                                                                                            |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 🩺 **Diagnostic Competency Assessment System** | AI-assisted medical diagnosis training platform using chest X-rays and weakly supervised localization. |
-| 🎓 **SkillConnect** | Peer learning platform with intelligent student matching and recommendation engine. |
-| ☕ **Sahyadri Café** | MERN-based smart canteen management system with seat tracking. |
-| 📚 **BookMart** | Online book marketplace with modern UI and authentication. |
+| 🎓 **SkillConnect**                            | Peer learning platform with intelligent student matching and recommendation engine.                    |
+| ☕ **Sahyadri Café**                           | MERN-based smart canteen management system with seat tracking.                                         |
+| 📚 **BookMart**                                | Online book marketplace with modern UI and authentication.                                             |
 
 </div>
 
@@ -258,8 +249,8 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 
 > **"Building software with logic, creating art with imagination."**
 
-⭐ *Thanks for visiting my profile!*
+⭐ _Thanks for visiting my profile!_
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF9,50:BD00FF,100:FF2E97&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=120&section=footer"/>
