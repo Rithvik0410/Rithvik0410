@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:BD00FF,100:00FFF9&height=220&section=header&text=Rithvik%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20by%20day%20·%20Strings%20%26%20keys%20by%20night%20·%20Canvas%20always&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:BD00FF,100:00FFF9&height=220&section=header&text=Rithvik%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20by%20day%20%E2%80%A2%20Drums%20%26%20Keys%20by%20night%20%E2%80%A2%20Canvas%20always&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/rithvik0410">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00FFF9&background=0D0221&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Drummer+%26+Pianist+%F0%9F%A5%81%F0%9F%8E%B9;Digital+%2B+3D+Artist+%F0%9F%8E%A8;Data+Engineer+%7C;Turning+Coffee+into+Code%2C+Chords+%26+Color" alt="Typing SVG" />
