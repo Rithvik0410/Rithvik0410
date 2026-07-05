@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF9933,50:FFFFFF,100:138808&amp;height=220&amp;section=header&amp;text=Rithvik%20Shetty&amp;fontSize=58&amp;fontColor=0D0221&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20Artist&amp;descAlignY=56&amp;descSize=18" width="100%" />
 
 <a href="https://github.com/rithvik0410">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2500&amp;pause=800&amp;color=F8F8F2&amp;background=0D0221&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Software+Engineer+%F0%9F%92%BB;Data+Engineer+%F0%9F%93%8A;Drummer+%26+Pianist+%F0%9F%A5%81%F0%9F%8E%B9;Digital+%26+3D+Artist+%F0%9F%8E%A8;Building+Cool+Things+with+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2500&amp;pause=800&amp;color=F8F8F2&amp;background=0D0221&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Software+Engineer+%F0%9F%92%BB;Data+Engineer;Drummer+%26+Pianist+%F0%9F%A5%81%F0%9F%8E%B9;Digital+%26+3D+Artist+%F0%9F%8E%A8;Building+Cool+Things+with+Code+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 </div>
