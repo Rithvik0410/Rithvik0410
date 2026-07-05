@@ -29,6 +29,21 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 ### 📫 Reach Me
 
 **Email:** `rithvikshettymails@gmail.com`
+<div align="center">
+
+<a href="https://linkedin.com/in/rithvik-shetty-68b14226a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rithvikshettymails@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rithvik0410">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -112,20 +127,6 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 
 ---
 
-## 🎨 Creative
-
-<p>
-
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Digital_Art-BD00FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Drums-%23FF2E97?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Piano-%2300FFF9?style=for-the-badge&logo=musicbrainz&logoColor=black"/>
-
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -154,7 +155,7 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rithvik0410&theme=algolia&no-frame=true&row=1&column=7&margin-w=15"/>
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?rithvik0410=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"/>
 
 </div>
 
@@ -168,89 +169,10 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 
 </div>
 
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/rithvik0410/rithvik0410/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project                                        | Description                                                                                            |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 🩺 **Diagnostic Competency Assessment System** | AI-assisted medical diagnosis training platform using chest X-rays and weakly supervised localization. |
-| 🎓 **SkillConnect**                            | Peer learning platform with intelligent student matching and recommendation engine.                    |
-| ☕ **Sahyadri Café**                           | MERN-based smart canteen management system with seat tracking.                                         |
-| 📚 **BookMart**                                | Online book marketplace with modern UI and authentication.                                             |
-
-</div>
-
----
-
-## 🎨 Beyond Code
-
-<div align="center">
-
-🥁 Drummer
-
-🎹 Pianist
-
-🎨 Digital Artist
-
-🧊 Blender Creator
-
-💡 Always building something creative.
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rithvik-shetty-68b14226a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rithvikshettymails@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rithvik0410">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rithvik0410&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-> **"Building software with logic, creating art with imagination."**
 
 ⭐ _Thanks for visiting my profile!_
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=120&section=footer"/>
