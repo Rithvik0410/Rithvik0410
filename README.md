@@ -128,7 +128,7 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 ---
 
 ---
-
+<!----
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -168,7 +168,7 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithvik0410&theme=synthwave&hide_border=true&bg_color=0D0221&color=00FFF9&line=FF2E97&point=ffffff"/>
 
 </div>
-
+---->
 
 <div align="center">
 
