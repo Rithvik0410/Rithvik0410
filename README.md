@@ -125,9 +125,6 @@ When I'm away from the keyboard, you'll usually find me behind a **drum kit**, a
 
 </p>
 
----
-
----
 <!----
 ## 📊 GitHub Analytics
 
